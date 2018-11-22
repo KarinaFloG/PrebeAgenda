@@ -20,6 +20,8 @@
         </activity>
         <activity android:name=".RegistrarActivity">
         </activity>
+        <activity android:name=".ForgotActivity">
+        </activity>
     </application>
 
 </manifest>
